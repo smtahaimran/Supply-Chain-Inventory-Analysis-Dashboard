@@ -1,0 +1,7 @@
+store_id,store_name,city,region,store_type,opening_year,size_factor
+S01,Sweet Crust Bakery - Gulberg,Lahore,Punjab,Flagship,2019,1.6
+S02,Sweet Crust Bakery - DHA,Lahore,Punjab,Standard,2020,1.0
+S03,Sweet Crust Bakery - Clifton,Karachi,Sindh,Flagship,2018,1.7
+S04,Sweet Crust Bakery - Gulshan,Karachi,Sindh,Standard,2021,0.95
+S05,Sweet Crust Bakery - F-7,Islamabad,Islamabad Capital Territory,Standard,2020,1.1
+S06,Sweet Crust Bakery - Satellite Town,Rawalpindi,Punjab,Standard,2022,0.85

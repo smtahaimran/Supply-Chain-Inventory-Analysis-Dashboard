@@ -1,0 +1,13 @@
+product_id,product_name,category,unit,unit_cost_pkr,shelf_life_days,is_perishable,supplier_id,base_daily_usage,safety_days
+P01,Wheat Flour,Dry Goods,kg,150,270,False,SUP01,30.0,5
+P02,Refined Sugar,Dry Goods,kg,180,365,False,SUP03,18.0,6
+P03,Butter (Unsalted),Dairy,kg,1200,45,True,SUP02,8.0,2
+P04,Fresh Eggs,Dairy,dozen,320,21,True,SUP02,12.0,2
+P05,Fresh Milk,Dairy,litre,210,7,True,SUP02,25.0,1
+P06,Instant Yeast,Baking Essentials,kg,900,365,False,SUP04,1.2,8
+P07,Chocolate Chips,Dry Goods,kg,1450,300,False,SUP06,6.0,7
+P08,Vanilla Extract,Baking Essentials,litre,3200,365,False,SUP06,0.4,8
+P09,Baking Powder,Baking Essentials,kg,350,365,False,SUP04,1.5,7
+P10,Iodized Salt,Dry Goods,kg,90,730,False,SUP01,0.8,10
+P11,Cream Cheese,Dairy,kg,1100,20,True,SUP02,4.0,2
+P12,Fresh Strawberries,Perishable,kg,650,5,True,SUP05,3.0,1

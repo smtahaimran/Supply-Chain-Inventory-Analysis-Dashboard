@@ -1,0 +1,7 @@
+supplier_id,supplier_name,category,base_lead_time_days,reliability_score
+SUP01,Al-Rehman Flour Mills,Dry Goods,3,0.92
+SUP02,Punjab Dairy Distributors,Dairy,2,0.85
+SUP03,National Sugar Traders,Dry Goods,4,0.9
+SUP04,Karachi Baking Supplies Co.,Baking Essentials,5,0.88
+SUP05,Fresh Farm Produce,Perishable,1,0.8
+SUP06,Universal Ingredients Ltd,Mixed,6,0.83
