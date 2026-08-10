@@ -32,14 +32,33 @@ The data is synthetic but statistically modeled to behave like a real bakery's o
 
 The dashboard has 6 report pages, each with 4 focused visuals:
 
-1. **Executive Overview** — spend, stockout rate, on-time delivery vs. target, demand trend
-2. **Inventory & Stockouts** — stockout rate by store/product, lost sales value
-3. **Wastage & Spoilage** — spoilage cost by product, store, and category
-4. **Supplier Performance** — on-time delivery %, fill rate, lead time reliability
-5. **Demand & Seasonality** — Ramadan/Eid/wedding season demand patterns
-6. **Cost & Spend Analysis** — spend breakdown by category, supplier, and store
-7. **Key Insights**
-8. **Recommendations**
+1.**Introduction**
+<img width="614" height="338" alt="Screenshot 2026-08-10 142841" src="https://github.com/user-attachments/assets/cca9b9e0-9ff0-4ffa-98c4-6d5a43952787" />
+
+2. **Executive Overview** — spend, stockout rate, on-time delivery vs. target, demand trend
+<img width="629" height="343" alt="Screenshot 2026-08-10 142907" src="https://github.com/user-attachments/assets/06457e4f-6ed3-45cd-a115-1f84ea788e53" />
+
+3. **Inventory & Stockouts** — stockout rate by store/product, lost sales value
+<img width="624" height="345" alt="Screenshot 2026-08-10 143142" src="https://github.com/user-attachments/assets/173b1030-eabe-476c-bc09-cbaf11a47691" />
+
+4. **Wastage & Spoilage** — spoilage cost by product, store, and category
+<img width="626" height="341" alt="Screenshot 2026-08-10 143221" src="https://github.com/user-attachments/assets/c2ff766f-cb75-4d5d-964c-4d278a465406" />
+
+5. **Supplier Performance** — on-time delivery %, fill rate, lead time reliability
+<img width="617" height="344" alt="Screenshot 2026-08-10 143307" src="https://github.com/user-attachments/assets/ef115144-816f-4ba3-a62a-dab4734364fe" />
+
+6. **Demand & Seasonality** — Ramadan/Eid/wedding season demand patterns
+<img width="619" height="341" alt="Screenshot 2026-08-10 143409" src="https://github.com/user-attachments/assets/b633c83f-1507-4ef4-a43d-1ef7c2ce08c0" />
+
+7. **Cost & Spend Analysis** — spend breakdown by category, supplier, and store
+<img width="617" height="341" alt="image" src="https://github.com/user-attachments/assets/0d329bc3-5c74-4338-9960-f12c8e0863e2" />
+
+8. **Key Insights**
+<img width="617" height="337" alt="Screenshot 2026-08-10 143525" src="https://github.com/user-attachments/assets/ed32743c-89f5-4b6b-9096-af9d91221916" />
+
+9. **Recommendations**
+<img width="617" height="338" alt="Screenshot 2026-08-10 143604" src="https://github.com/user-attachments/assets/3db5959a-cc80-4b90-86c7-c7e80d9996f3" />
+
 
 
 ---
