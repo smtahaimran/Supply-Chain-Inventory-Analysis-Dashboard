@@ -30,9 +30,9 @@ The data is synthetic but statistically modeled to behave like a real bakery's o
 
 ## 📊 Dashboard
 
-The dashboard has 6 report pages, each with 4 focused visuals:
+The dashboard has 9 report pages:
 
-1.**Introduction**
+1. **Introduction**
 <img width="614" height="338" alt="Screenshot 2026-08-10 142841" src="https://github.com/user-attachments/assets/cca9b9e0-9ff0-4ffa-98c4-6d5a43952787" />
 
 2. **Executive Overview** — spend, stockout rate, on-time delivery vs. target, demand trend
@@ -82,4 +82,5 @@ The dashboard has 6 report pages, each with 4 focused visuals:
 - Prioritize Gulberg and Satellite Town when piloting ordering changes before rolling out chain-wide.
 - Build seasonal stock buffers ahead of Ramadan, Eid, and wedding season.
 - Score suppliers separately on delivery timing and order completeness, since they're two distinct problems.
+
 ---
